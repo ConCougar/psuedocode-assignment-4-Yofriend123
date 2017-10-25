@@ -29,10 +29,8 @@ The dealer asks the player to hit or stand.
   Else if the player chooses to stand:
         the player keeps the same cards
 The player looks at their cards again
-  If the player's cards add up to 21 first or is closest to 21 but still under 21:
-    the player wins the game
-  If the player's cards add up to above 21:
-    the player is busted (eliminated)
+if player is greater than 21
+  lose 
   Else:
     Continue the game normally
 Proceed to deal cards to the next player
