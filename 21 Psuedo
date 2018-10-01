@@ -38,7 +38,7 @@ The player looks at their cards again
 Proceed to deal cards to the next player
   If both players' cards are equal, less than 21, and they both stay:
     it is a push (tie)
-
-    
+//
+  could be implemented with a loop and with a condition that controls the elimination  
     
 
